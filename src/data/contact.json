@@ -1,0 +1,22 @@
+[
+    {   
+        "name": "LinkedIn",
+        "contactId":"linkedin",
+        "url":"https://www.linkedin.com/in/mashimabutton"
+    },
+    {   
+        "name": "GitHub",
+        "contactId":"github",
+        "url":"https://github.com/zimashima"
+    },
+    {   
+        "name": "Twitter",
+        "contactId":"twitter",
+        "url":"https://twitter.com/_zimashima"
+    },
+    {   
+        "name": "Email",
+        "contactId":"email",
+        "url":"mailto:mashima.button@gmail.com"
+    }
+]

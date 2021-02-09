@@ -1,4 +1,4 @@
-export const About = (aboutMe: AboutMe) => {
+export const About = (aboutMe: AboutText[]) => {
     return (
         <div>
             {

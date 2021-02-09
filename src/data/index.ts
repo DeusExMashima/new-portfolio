@@ -9,5 +9,5 @@ export const DATA = {
     "CONTACT": CONTACT,
     "ICONS": ICONS,
     "PROJECTS": PROJECTS,
-    "SKILLS": SKILLS
+    "MY_SKILLS": SKILLS
 }

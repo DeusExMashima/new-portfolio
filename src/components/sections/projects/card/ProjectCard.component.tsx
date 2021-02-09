@@ -1,3 +1,7 @@
+interface ProjectCardProps {
+    project: Project
+}
+
 export const ProjectCard = (project: Project) => {
 
     const {
@@ -18,7 +22,6 @@ export const ProjectCard = (project: Project) => {
             <h3>{title}</h3>
             <p>{description}</p>
             {technology.map((tech: string) => (<span>{tech}</span>))}
-
         </div>
     )
 };

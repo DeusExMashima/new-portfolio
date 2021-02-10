@@ -11,3 +11,9 @@ export const DATA = {
     "PROJECTS": PROJECTS,
     "MY_SKILLS": SKILLS
 }
+
+export const MAIN_CONFIG = {
+    "IMG_BASE": "../../assets/",
+    "IMG_ICON_FILEPATH": "svg-icons/",
+    "IMG_PHOTO_FILEPATH": "",
+}

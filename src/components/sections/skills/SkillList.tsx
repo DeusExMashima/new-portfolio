@@ -1,6 +1,6 @@
 import { SkillBadge } from './skill-badge/SkillBadge.component';
 
-export const SkillList = (mySkills: MySkills) => {
+export const SkillList: React.FC<{ mySkills: MySkills}> = ({ mySkills }) => {
     return (
         <section>
             { mySkills.map(

@@ -1,8 +1,4 @@
-interface ProjectCardProps {
-    project: Project
-}
-
-export const ProjectCard = (project: Project) => {
+export const ProjectCard: React.FC<{project: Project}> = ({ project }) => {
 
     const {
         title,

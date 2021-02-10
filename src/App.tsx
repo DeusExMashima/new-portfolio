@@ -10,16 +10,13 @@ import {
 import { DATA } from './data'
 
 function App() {
-
-  const { ABOUT, MY_SKILLS, PROJECTS, CONTACT } = DATA
-
   return (
     <>
     <Header />
-    <About { ...ABOUT }/>
-    <SkillList { ...MY_SKILLS } />
-    <Projects { ...PROJECTS }/>
-    <Contact { ...CONTACT }/>
+    <About aboutMe={ DATA.ABOUT }/>
+    <SkillList mySkills={ DATA.MY_SKILLS } />
+    <Projects myProjects={ DATA.PROJECTS }/>
+    <Contact contacts={ DATA.CONTACT }/>
     <Footer />
     </>
   );

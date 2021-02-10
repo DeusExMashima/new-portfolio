@@ -1,9 +1,9 @@
-import { ProjectCard } from './card/ProjectCard.component';
+import { ProjectCard } from './project-card/ProjectCard.component';
 
-export const Projects = (projects: Projects) => {
+export const Projects: React.FC<{myProjects: Projects}> = ({ myProjects }) => {
     return (
         <div>
-            { projects.map((project: Project) => <ProjectCard {...project}/>) }
+            { myProjects.map((project: Project) => <ProjectCard project={project}/>) }
         </div>
     )
 };

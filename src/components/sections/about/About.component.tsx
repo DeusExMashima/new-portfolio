@@ -1,4 +1,4 @@
-export const About = (aboutMe: AboutText[]) => {
+export const About: React.FC<{aboutMe: AboutMe}> = ({ aboutMe }) => {
     return (
         <div>
             {

@@ -6,7 +6,7 @@ export const Footer = () => {
     return (
         <>
             <footer>
-                <p>Copyright &copy; { year } Mashima Buttton</p>
+                <p>Copyright { year } &copy; Mashima Buttton</p>
             </footer>
         </>
     )

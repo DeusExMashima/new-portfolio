@@ -1,7 +1,7 @@
-export const Contact = (contact: Contacts) => {
+export const Contact: React.FC<{ contacts: Contacts }> = ({ contacts }) => {
     return (
         <div>
-            Contact
+            { contacts.map((contact: Contact) => (<div>{contact.name}</div>)) }
         </div>
     )
 };

@@ -10,6 +10,8 @@ import {
 import { DATA } from './data'
 
 function App() {
+
+
   return (
     <>
     <Header />

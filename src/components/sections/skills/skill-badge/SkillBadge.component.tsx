@@ -1,8 +1,10 @@
+import { Badge } from 'react-bootstrap'
+
 export const SkillBadge = (skill: Skill) => {
 
     return (
-        <span>
+        <Badge variant="primary">
             { skill.skillName }
-        </span>
+        </Badge>
     )
 };

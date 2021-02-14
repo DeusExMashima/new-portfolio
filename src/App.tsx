@@ -1,25 +1,18 @@
 import React from 'react';
+import "./styles/dist/styles.css"
 import {
   Header,
   Footer,
-  About,
-  SkillList,
-  Projects,
-  Contact
+  Sections
 } from './components';
-import { DATA } from './data'
 
 function App() {
-
 
   return (
     <>
     <Header />
-    <About aboutMe={ DATA.ABOUT }/>
-    <SkillList mySkills={ DATA.MY_SKILLS } />
-    <Projects myProjects={ DATA.PROJECTS }/>
-    <Contact contacts={ DATA.CONTACT }/>
-    <Footer />
+    <Sections />
+    <Footer />  
     </>
   );
 }

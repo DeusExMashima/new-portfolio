@@ -1,22 +1,26 @@
 [
-    {   
+    {
+        "id": 1,
         "name": "LinkedIn",
-        "contactId":"linkedin",
-        "url":"https://www.linkedin.com/in/mashimabutton"
+        "imageCode": "linkedin",
+        "url": "https://www.linkedin.com/in/mashimabutton"
     },
-    {   
+    {
+        "id": 2,
         "name": "GitHub",
-        "contactId":"github",
-        "url":"https://github.com/zimashima"
+        "imageCode": "github",
+        "url": "https://github.com/zimashima"
     },
-    {   
+    {
+        "id": 3,
         "name": "Twitter",
-        "contactId":"twitter",
-        "url":"https://twitter.com/_zimashima"
+        "imageCode": "twitter",
+        "url": "https://twitter.com/_zimashima"
     },
-    {   
+    {
+        "id": 4,
         "name": "Email",
-        "contactId":"email",
-        "url":"mailto:mashima.button@gmail.com"
+        "imageCode": "email",
+        "url": "mailto:mashima.button@gmail.com"
     }
 ]

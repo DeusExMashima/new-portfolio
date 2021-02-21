@@ -1,6 +1,7 @@
 interface Contact {
+    id: number;
     name: string;
-    contactId: string;
+    imageCode: string;
     url: string,
 }
 

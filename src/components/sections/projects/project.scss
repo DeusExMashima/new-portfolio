@@ -1,0 +1,13 @@
+.project-img {
+    filter: brightness(50%);
+    transition: 0.3s;
+}
+
+.project-img:hover {
+    filter: brightness(100%)
+}
+
+.project-caption {
+    width: 100%;
+    background: rgb(0, 0, 0, 0.5)
+}

@@ -2,4 +2,9 @@ interface AboutText {
     "text": string;
 }
 
-interface AboutMe extends Array<AboutText> {}
+interface About {
+    "subtitle": string;
+    "paragraph": AboutText[]
+}
+
+interface AboutMe extends Array<About> {}

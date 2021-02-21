@@ -5,7 +5,7 @@ export const Footer = () => {
 
     return (
         <>
-            <footer>
+            <footer className="footer text-center text-white bg-info m-0 p-1">
                 <p>Copyright { year } &copy; Mashima Buttton</p>
             </footer>
         </>

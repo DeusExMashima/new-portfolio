@@ -1,39 +1,53 @@
 [
     {
-        "id": 1,
-        "skillName": "HTML5"
+        "id": 1, "name": "HTML5", "imageCode": "html"
     },
     {
-        "id": 2,
-        "skillName": "CSS3"
+        "id": 2, "name": "CSS3", "imageCode": "css"
     },
     {
-        "id": 3,
-        "skillName": "JavaScript"
+        "id": 3, "name": "JavaScript", "imageCode": "javascript"
     },
     {
-        "id": 4,
-        "skillName": "NodeJS"
+        "id": 4, "name": "Typescript", "imageCode": "typescript"
     },
     {
-        "id": 5,
-        "skillName": "React"
+        "id": 5, "name": "NodeJS", "imageCode": "node"
+    },
+    { 
+        "id": 6, "name": "React", "imageCode": "react"
+    },
+    { 
+        "id": 7, "name": "Redux", "imageCode": "redux"
     },
     {
-        "id": 6,
-        "skillName": "LESS"
+        "id": 8, "name": "Angular", "imageCode": "angular"
     },
     {
-        "id": 7,
-        "skillName": "SASS"
+        "id": 9, "name": "RxJs", "imageCode": "reactivex"
     },
     {
-        "id": 8,
-        "skillName": "Bootstrap"
+        "id": 10, "name": "SASS", "imageCode": "sass"
     },
     {
-        "id": 9,
-        "skillName": "Git"
+        "id": 11, "name": "Bootstrap", "imageCode": "bootstrap"
+    },
+    {
+        "id": 12, "name": "Material UI", "imageCode": "mui"
+    },
+    {
+        "id": 13, "name": "Styled-Components", "imageCode": "styledComponents"
+    },
+    {
+        "id": 14, "name": "PostgresQL", "imageCode": "postgresql"
+    },
+    {
+        "id": 15, "name": "MongoDB", "imageCode": "mongodb"
+    },
+    {
+        "id": 16, "name": "Cypress", "imageCode": "cypress"
+    },
+    {
+        "id": 17, "name": "Jest", "imageCode": "jest"
     }
-
 ]

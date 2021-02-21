@@ -1,6 +1,7 @@
 interface Skill {
     id: number;
-    skillName: string;
+    name: string;
+    imageCode: string;
 }
 
 interface MySkills extends Array<Skill> {}

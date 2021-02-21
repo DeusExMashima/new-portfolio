@@ -1,23 +1,32 @@
-[
-   {
+[{
       "subtitle": "About Mashima Button",
       "paragraph": [
          {
-            "text": ""
+            "text": "I am an enthusiastic full stack software engineer that is passionate about solving problems and finding the best solutions."
          },
          {
-            "text": "Before pursuing a career in tech, I had always worked in customer service field. Customer service mindset"
+            "text": "I had a bachelor in Political Science from a prestigious university in Thailand. I had attended Lambda School for Web Development training for 9 months. Before that, I had little knowledge of web development. Today, I have several web JavaScript applications in my portfolio built with React, Angular, Node/Express, and experience working in an agile environment."
+         }
+      ]
+   },{
+      "subtitle": "A star performer, an organizer, and a team builder",
+      "paragraph": [
+         {
+            "text": "I have always give the best to every job I've ever done. Having always been a top performer that gets along well with everybody, I had been promoted or selected for leadership positions or tasks such becoming a Student Team Lead at Lambda School."
+         },
+         {
+            "text": "I also always take charges in organizing workspace, delegating tasks, and holding professional and casual meeting for teams or groups. I love helping in improving efficiency and creating a fun and supportive environment where everybody can flourish and shine."
          }
       ]
    },
    {
-      "subtitle": "A Meme Queen, A Team Builder, and an Organizer",
+      "subtitle": "What's next for Mashima?",
       "paragraph": [
          {
-            "text": "I may come off as introverted and shy at first, but once the ice is broken, I'm a constant flow of idea, a ball energy, and a super fun team member to work with."
+            "text": "I am currently looking for a software engineering position in a fun and professional environment."
          },
          {
-            "text": "I am also known as being extremely organized as I love to keep my work space clean, and making documentation so that I have something to reference to in the future."
+            "text": "Definitely hit me up if you want someone who gives more than 100% and constantly reaches for the stars, is fun and always brings laughter and positivity to your team, and is eager to be your successful hire!"
          }
       ]
    }

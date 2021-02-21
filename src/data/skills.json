@@ -10,44 +10,49 @@
     },
     {
         "id": 4, "name": "Typescript", "imageCode": "typescript"
+    },{
+        "id": 5, "name": "Python", "imageCode": "python"
     },
     {
-        "id": 5, "name": "NodeJS", "imageCode": "node"
+        "id": 6, "name": "NodeJS", "imageCode": "node"
     },
     { 
-        "id": 6, "name": "React", "imageCode": "react"
+        "id": 7, "name": "React", "imageCode": "react"
     },
     { 
-        "id": 7, "name": "Redux", "imageCode": "redux"
+        "id": 8, "name": "Redux", "imageCode": "redux"
     },
     {
-        "id": 8, "name": "Angular", "imageCode": "angular"
+        "id": 9, "name": "Angular", "imageCode": "angular"
     },
     {
-        "id": 9, "name": "RxJs", "imageCode": "reactivex"
+        "id": 10, "name": "RxJs", "imageCode": "reactivex"
     },
     {
-        "id": 10, "name": "SASS", "imageCode": "sass"
+        "id": 11, "name": "SASS", "imageCode": "sass"
     },
     {
-        "id": 11, "name": "Bootstrap", "imageCode": "bootstrap"
+        "id": 12, "name": "Bootstrap", "imageCode": "bootstrap"
     },
     {
-        "id": 12, "name": "Material UI", "imageCode": "mui"
+        "id": 13, "name": "Material UI", "imageCode": "mui"
     },
     {
-        "id": 13, "name": "Styled-Components", "imageCode": "styledComponents"
+        "id": 14, "name": "Styled-Components", "imageCode": "styledComponents"
     },
     {
-        "id": 14, "name": "PostgresQL", "imageCode": "postgresql"
+        "id": 15, "name": "PostgresQL", "imageCode": "postgresql"
     },
     {
-        "id": 15, "name": "MongoDB", "imageCode": "mongodb"
+        "id": 16, "name": "MongoDB", "imageCode": "mongodb"
     },
     {
-        "id": 16, "name": "Cypress", "imageCode": "cypress"
+        "id": 17, "name": "Cypress", "imageCode": "cypress"
     },
     {
-        "id": 17, "name": "Jest", "imageCode": "jest"
+        "id": 18, "name": "Jest", "imageCode": "jest"
+    },
+    {
+        "id": 19, "name": "Git", "imageCode": "git"
     }
 ]

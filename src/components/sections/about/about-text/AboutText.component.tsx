@@ -1,7 +1,3 @@
-import { Title } from "../../../layout";
-import { TITLE } from "../../../../data";
-import { SkillList } from "../../skills/SkillList.component";
-
 export const AboutText: React.FC<{aboutMe: AboutMe, mySkills: MySkills}> = ({ aboutMe, mySkills }) => {
 
     return (
@@ -15,7 +11,6 @@ export const AboutText: React.FC<{aboutMe: AboutMe, mySkills: MySkills}> = ({ ab
                         </div>)
                 )
             }
-
         </div>
     )
 };

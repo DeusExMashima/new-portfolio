@@ -5,14 +5,6 @@
         "code": "developer",
         "stories": [
             {
-                "id": "US0101",
-                "text": "write code that is reusable, maintainable and organized, so that the application can scale, and make it easier for the other developers to work on"
-            },
-            {
-                "id": "US0102",
-                "text": "work on complex codebase, so that I can learn and improve upon."
-            },
-            {
                 "id": "US0103",
                 "text": "develop, test, and ensure that the product I contribute to is at its best quality so that my client is satisfied."
             }
@@ -26,14 +18,6 @@
             {
                 "id": "US0201",
                 "text": "constantly growing technically and professionally so that one day I can lead a team and be in charge of awesome projects"
-            },
-            {
-                "id": "US0202",
-                "text": "create environment where people feel safe and fun, so that everybody can flourish, productive, and grow"
-            },
-            {
-                "id": "US0203",
-                "text": ""
             }
         ]
     },
@@ -43,16 +27,8 @@
         "code": "person",
         "stories": [
             {
-                "id": "US0301",
-                "text": "have work-life balance so that I can spend time doing what I love, with people I love"
-            },
-            {
                 "id": "US0302",
                 "text": "make meaningful contribution and help improve various aspects of our society so that everybody can live peacefully and happily"
-            },
-            {
-                "id": "US0303",
-                "text": "ensure my cats have the best life possible!"
             }
         ]
     }

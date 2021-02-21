@@ -27,7 +27,7 @@ import postgresqlIcon from '../../assets/svg-icons/postgresql.svg'
 import mongodbIcon from '../../assets/svg-icons/mongodb.svg'
 import jestIcon from '../../assets/svg-icons/jest.svg'
 import cypressIcon from '../../assets/svg-icons/cypress.svg'
-
+import gitIcon from '../../assets/svg-icons/git.svg'
 
 export const Image: React.FC<{imgCode: string, altText: string}> = ({ imgCode, altText }) => {
 
@@ -60,7 +60,8 @@ export const Image: React.FC<{imgCode: string, altText: string}> = ({ imgCode, a
         "postgresql": postgresqlIcon,
         "mongodb": mongodbIcon,
         "jest": jestIcon,
-        "cypress": cypressIcon
+        "cypress": cypressIcon,
+        "git": gitIcon
     }
 
     return (

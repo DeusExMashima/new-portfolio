@@ -25,8 +25,8 @@ export const DATA = {
 
 export const TITLE = {
     ABOUT_ME: "A Little Bit About Me",
-    MY_SKILLS: "My Proficiency...",
-    MY_PROJECTS: "Project I worked on...",
+    MY_SKILLS: "My Proficiencies...",
+    MY_PROJECTS: "Projects I worked on...",
     MY_USER_STORIES: "My User Stories...",
     CONTACT_ME: "Contact Me",
     TESTIMONIALS: "Colleagues' Testimonials"

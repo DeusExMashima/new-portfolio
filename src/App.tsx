@@ -1,9 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
+import "./styles/dist/styles.css"
+import {
+  Header,
+  Footer,
+  Sections
+} from './components';
 
 function App() {
+
   return (
     <>
+    <Header />
+    <Sections />
+    <Footer />  
     </>
   );
 }

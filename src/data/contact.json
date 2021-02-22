@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "LinkedIn",
+        "imageCode": "linkedin",
+        "url": "https://www.linkedin.com/in/mashimabutton"
+    },
+    {
+        "id": 2,
+        "name": "GitHub",
+        "imageCode": "github",
+        "url": "https://github.com/zimashima"
+    },
+    {
+        "id": 3,
+        "name": "Twitter",
+        "imageCode": "twitter",
+        "url": "https://twitter.com/_zimashima"
+    },
+    {
+        "id": 4,
+        "name": "Email",
+        "imageCode": "email",
+        "url": "mailto:mashima.button@gmail.com"
+    }
+]

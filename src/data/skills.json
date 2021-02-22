@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1, "name": "HTML5", "imageCode": "html"
+    },
+    {
+        "id": 2, "name": "CSS3", "imageCode": "css"
+    },
+    {
+        "id": 3, "name": "JavaScript", "imageCode": "javascript"
+    },
+    {
+        "id": 4, "name": "Typescript", "imageCode": "typescript"
+    },{
+        "id": 5, "name": "Python", "imageCode": "python"
+    },
+    {
+        "id": 6, "name": "NodeJS", "imageCode": "node"
+    },
+    { 
+        "id": 7, "name": "React", "imageCode": "react"
+    },
+    { 
+        "id": 8, "name": "Redux", "imageCode": "redux"
+    },
+    {
+        "id": 9, "name": "Angular", "imageCode": "angular"
+    },
+    {
+        "id": 10, "name": "RxJs", "imageCode": "reactivex"
+    },
+    {
+        "id": 11, "name": "SASS", "imageCode": "sass"
+    },
+    {
+        "id": 12, "name": "Bootstrap", "imageCode": "bootstrap"
+    },
+    {
+        "id": 13, "name": "Material UI", "imageCode": "mui"
+    },
+    {
+        "id": 14, "name": "Styled-Components", "imageCode": "styledComponents"
+    },
+    {
+        "id": 15, "name": "PostgresQL", "imageCode": "postgresql"
+    },
+    {
+        "id": 16, "name": "MongoDB", "imageCode": "mongodb"
+    },
+    {
+        "id": 17, "name": "Cypress", "imageCode": "cypress"
+    },
+    {
+        "id": 18, "name": "Jest", "imageCode": "jest"
+    },
+    {
+        "id": 19, "name": "Git", "imageCode": "git"
+    }
+]

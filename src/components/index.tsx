@@ -1,1 +1,2 @@
-export * from './layout/Layout.component'
+export * from './layout';
+export * from './sections/Sections.component';

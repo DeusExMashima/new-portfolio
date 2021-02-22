@@ -10,7 +10,9 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "bootstrap": "^4.6.0",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.4.3",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
     "typescript": "^4.1.2",
@@ -20,7 +22,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "sass": "sass src/styles/scss/_main.scss src/styles/dist/styles.css"
   },
   "eslintConfig": {
     "extends": [

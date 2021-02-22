@@ -9998,6 +9998,11 @@ footer {
   color: #fff;
 }
 
+.testimonial-card {
+  max-width: 750px;
+  margin: 0 auto;
+}
+
 section {
   margin: 30px;
 }

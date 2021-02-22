@@ -28,6 +28,7 @@ import mongodbIcon from '../../assets/svg-icons/mongodb.svg'
 import jestIcon from '../../assets/svg-icons/jest.svg'
 import cypressIcon from '../../assets/svg-icons/cypress.svg'
 import gitIcon from '../../assets/svg-icons/git.svg'
+import mbLogo from '../../assets/mb/mb-logo.png'
 
 export const Image: React.FC<{imgCode: string, altText: string}> = ({ imgCode, altText }) => {
 
@@ -61,7 +62,8 @@ export const Image: React.FC<{imgCode: string, altText: string}> = ({ imgCode, a
         "mongodb": mongodbIcon,
         "jest": jestIcon,
         "cypress": cypressIcon,
-        "git": gitIcon
+        "git": gitIcon,
+        "mblogo": mbLogo
     }
 
     return (

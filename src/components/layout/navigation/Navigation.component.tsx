@@ -1,11 +1,15 @@
 import { MENU } from '../../../data'
 import { Nav, Navbar } from 'react-bootstrap';
+import { Image } from '../../image/Image.component';
 export const Navigation = () => {
 
     return (
         <Navbar collapseOnSelect bg="primary" expand="lg" className="navigation">
-            <Navbar.Brand href="#home">
-                Mashima Button
+            <Navbar.Brand href="#home" className="d-flex align-items-center">
+                <div className="logo-div">
+                <Image imgCode="mblogo" altText="MB Logo" /></div>
+                <h1 className="text-white pl-3">
+                Mashima Button</h1>
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="navigation-menu" />
             <Navbar.Collapse id="navigation-menu">

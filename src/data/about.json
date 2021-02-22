@@ -2,20 +2,23 @@
       "subtitle": "About Mashima Button",
       "paragraph": [
          {
-            "text": "I am an enthusiastic full stack software engineer that is passionate about solving problems and finding the best solutions."
+            "text": "I am an enthusiastic Full Stack Software Engineer that is passionate about technology and using it to drive positive change."
          },
          {
-            "text": "I had a bachelor in Political Science from a prestigious university in Thailand. I had attended Lambda School for Web Development training for 9 months. Before that, I had little knowledge of web development. Today, I have several web JavaScript applications in my portfolio built with React, Angular, Node/Express, and experience working in an agile environment."
+            "text": "Growing up in the rural outskirts of Bangkok, Thailand, I worked hard to be the first person in my family to graduate from college - from the most prestigious university in Thailand with a BA in Political Science. After landing my first job, I fell in love with technology while troubleshooting API and connectivity issues at Agoda.com for 2 years."
+         },
+         {
+            "text": "After relocating to the US, I struggled to pursue my passion, but I never gave up and, in 2019, I was accepted into the Web Development and Computer Science program at Lambda School. Today, I have experience working in an agile environment and several web JavaScript applications in my portfolio built with React, Angular, and Node/Express."
          }
       ]
    },{
-      "subtitle": "A star performer, an organizer, and a team builder",
+      "subtitle": "A Star Performer, Organizer, and Team Builder",
       "paragraph": [
          {
-            "text": "I have always give the best to every job I've ever done. Having always been a top performer that gets along well with everybody, I had been promoted or selected for leadership positions or tasks such becoming a Student Team Lead at Lambda School."
+            "text": "In each of my previous positions, I strived to be a top performer and team player. As a result, I was frequently selected for leadership positions. The best example is when I was chosen from a competitive group of candidates to be a Student Team Lead at Lambda School. I held this position for over a year and invite you to check out these testimonials! "
          },
          {
-            "text": "I also always take charges in organizing workspace, delegating tasks, and holding professional and casual meeting for teams or groups. I love helping in improving efficiency and creating a fun and supportive environment where everybody can flourish and shine."
+            "text": "I always take charge in organizing work, delegating tasks, and holding professional and casual meetings for teams and groups. I love creating a fun and supportive environment where everybody can flourish and shine."
          }
       ]
    },
@@ -23,10 +26,7 @@
       "subtitle": "What's next for Mashima?",
       "paragraph": [
          {
-            "text": "I am currently looking for a software engineering position in a fun and professional environment."
-         },
-         {
-            "text": "Definitely hit me up if you want someone who gives more than 100% and constantly reaches for the stars, is fun and always brings laughter and positivity to your team, and is eager to be your successful hire!"
+            "text": "I am currently seeking a software engineering position, so definitely hit me up at mashima.button@gmail.com if you want someone who has a unique background and perspective, always reaches for the stars, and will bring laughter and positivity to your team!"
          }
       ]
    }

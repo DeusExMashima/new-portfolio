@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Allie Robinson",
+        "position": "Frontend Engineer at Invisible AI",
+        "testimonials": ["Mashima is a star! She always shoots for excellence and achieves it. She's personable and fun. She has a lot of drive and also has the technical skills to follow through with her plans. I have reviewed her code and the end result of her work, and it is always beautifully done! Can't wait to see where she ends up."]
+    },{
+        "name": "Alex Gordon",
+        "position": "Technology Development Program Associate at Optum",
+        "testimonials": ["I had the pleasure of being Mashima's Team Lead during the Computer Science portion of the Lambda School curriculum. Mashima would make a great addition to any team! She has a great grasp of computer science and programming concepts, is fun and engaging to work with, and was reliably punctual with deadlines. Her multi-tasking skills are incredible as she managed to complete the curriculum while also leading a part-time cohort at the same time."]
+    },
+    {
+        "name": "Tim Griffith",
+        "position": "Software Engineer at Travelers",
+        "testimonials": ["The first time I worked with Mashima was on a 48-hour Hackathon project (Curio). We built a React/NodeJS app that allowed users to show-off their collectibles. It didn't take long for everyone to notice that we had a star in our midst in Mashima.",
+
+        "Then it came time to pick teammates for our two month Labs project. Mashima was an obvious choice. She was an integral part of the Story Squad team. We had to learn Typescript/TypeORM for this project. Mashima picked it up and was able to make huge contributions to the codebase very quickly.",
+        
+        "Mashima would be an asset to any company's development team."]
+    },{
+        "name": "Michael Hart",
+        "position": "Software Developer II at Nexient",
+        "testimonials": ["I was fortunate to have Mashima as one of our Team Leads when I was Section Lead for one of our cohorts at Lambda School. From day 1 she invested fully in supporting her students, and stood out as a leader among our Team Leads. She was always one of the first to arrive in our staff standups, and came ready with valuable feedback and questions that benefitted us all and helped us serve our students more effectively. In mentoring her students, she was very responsive to their individual needs and customized her support to make the most of her time with them, and every student in her group benefitted from working with her and left glowing feedback with me. Her group was led with the most impressive degree of organization I've seen from a Team Lead. That, combined with the depth of knowledge she displays on many technical subjects and her strength in communicating with and connecting to all kinds of people, made her a huge asset to her students, her fellow Team Leads, and to me and my co-Section Lead. She's a true team player, a consummate professional, and a mature developer with much to bring to any team."]
+    },{
+        "name": "Joshua Gray",
+        "position": "Full Stack Web Developer",
+        "testimonials": ["I've worked with Mashima on several projects and I have enjoyed every single second of our time together. She is not only very organized, smart and hard working but also very personable, easy to work with and has an excellent sense of humor. She's the type of person that will always show up and put in her best no matter what the circumstances. She is the total package, I would work with her on any project at anytime, anywhere."]
+    },
+    {
+        "name": "Taja House",
+        "position": "Full Stack Web Developer",
+        "testimonials": [
+            "Mashima is an awesome leader and developer. When I first met Mashima, I was hoping to get a good team lead and ended up getting an incredible team lead. She is compassionate, understanding, helpful, and approachable. There were times that I would stress and become discouraged because I didn't understand a concept. My one on ones with Mashima would always boost my spirits and help me to succeed. I am very fortunate to have had her as my Team Lead and am confident that whatever company accepts her will be very fortunate as well. "]
+    },
+    {
+        "name": "Stephen Tanksley",
+        "position": "Software Engineer",
+        "testimonials": ["Mashima was my team lead when I was working my way through Lambda School's Computer Science curriculum. Mashima brought a feeling of warmth and encouragement when I was struggling with understanding big concepts in computer science.",
+        "She worked through areas where I was confused and would push me to become a better software engineer by not simply giving me the answers when I was stuck.",
+        "I can't recommend Mashima highly enough. Truly a pleasure to work with."]
+    }
+]

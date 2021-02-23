@@ -1,5 +1,11 @@
 .us-card {
     max-width: 300px;
+    transition: 0.3s;
+}
+
+.us-card:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
 }
 
 .us-developer{

@@ -7,7 +7,7 @@ import { Image } from "../../image/Image.component";
 export const Projects: React.FC<{myProjects: Projects}> = ({ myProjects }) => {
     
     return (
-        <section className="projects" id="project">
+        <section className="projects" id="projects">
             <Title titleText={ TITLE.MY_PROJECTS } />
             <Carousel>
                 {

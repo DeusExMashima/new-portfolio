@@ -9972,6 +9972,7 @@ h3 {
 
 .project-img:hover {
   filter: brightness(100%);
+  transition: 0.3s;
 }
 
 .project-caption {
@@ -9993,6 +9994,12 @@ footer {
 
 .us-card {
   max-width: 300px;
+  transition: 0.3s;
+}
+
+.us-card:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
 }
 
 .us-developer {
@@ -10014,6 +10021,7 @@ footer {
 .testimonial-card {
   max-width: 750px;
   margin: 0 auto;
+  min-height: 600px;
 }
 
 section {

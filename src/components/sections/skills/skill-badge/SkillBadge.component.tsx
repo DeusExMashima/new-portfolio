@@ -14,7 +14,9 @@ export const SkillBadge: React.FC<{ skill: Skill }> = ({ skill }) => {
                     </Tooltip>
                 }
             >
-                <Button variant="light">
+                <Button
+                    className="bg-white border-white m-1"
+                    onClick={(e)=> {e.preventDefault(); e.stopPropagation();}}>
                     <Image imgCode={ skill.imageCode } altText={ skill.name } />
                 </Button>
             </OverlayTrigger>

@@ -8,8 +8,8 @@ export const About: React.FC<{aboutMe: AboutMe, mySkills: MySkills}> = ({ aboutM
         <section className="about" id="about">
             <Container>
                 <Row>
-                <Col xs={12} md={6}><AboutPic /></Col>
-                <Col xs={12} md={6}><AboutText aboutMe={ aboutMe } mySkills={ mySkills }/></Col>
+                <Col md={12} lg={6}><AboutPic /></Col>
+                <Col md={12} lg={6}><AboutText aboutMe={ aboutMe } mySkills={ mySkills }/></Col>
                 </Row>
             </Container>
         </section>

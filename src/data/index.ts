@@ -29,7 +29,7 @@ export const TITLE = {
     MY_PROJECTS: "Projects I worked on...",
     MY_USER_STORIES: "My User Stories...",
     CONTACT_ME: "Contact Me",
-    TESTIMONIALS: "Colleagues' Testimonials"
+    TESTIMONIALS: "Colleagues' Testimonials..."
 }
 
 export const MENU = NAV_MENU

@@ -7,11 +7,15 @@ export const Testimonials: React.FC<{ myTestimonials: Testimonials}> = ({ myTest
     return (
         <section className="testimonials" id="testimonials">
             <Title titleText={ TITLE.TESTIMONIALS } />
-            <div className="testimonials-container" id="testimonials">
+            <div className="testimonials-container bg-info p-3 rounded-lg" id="testimonials">
                 <Carousel>
-                { myTestimonials.map(
-                    (el: Testimonial)=> (<Carousel.Item><TestimonialCard key={ el.name } testimonial={ el } /></Carousel.Item>)
-                )}
+                    { myTestimonials.map(
+                        (el: Testimonial)=> (
+                            <Carousel.Item>
+                                <TestimonialCard key={ el.name } testimonial={ el } />
+                            </Carousel.Item>
+                        )
+                    )}
                 </Carousel>
             </div>
         </section>
